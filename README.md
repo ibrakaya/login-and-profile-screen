@@ -12,3 +12,7 @@ This project has several features:
 - Device features (gallery, camera)
 - Error Handling
 
+
+
+https://user-images.githubusercontent.com/31280119/181654240-2837bef6-2dd0-4511-9c56-3a4eb35c3e0f.mp4
+
